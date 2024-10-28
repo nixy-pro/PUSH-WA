@@ -24,7 +24,7 @@ global.owneroff = false
 
 //==== Waktu Jeda Jpm & Pushkon ====//
 global.delaypushkontak = 7000
-global.delayjpm = 2000
+global.delayjpm = 3000
 
 //========= Setting Url Foto =========//
 //Lihat Di Folder Media!
